@@ -1,0 +1,1000 @@
+﻿1,155,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 2,34,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 3,6,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 4,83,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 5,127,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 6,56,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 7,11,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 8,105,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 9,191,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 10,105,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 11,3,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 12,139,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 13,41,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 14,34,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 15,128,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 16,107,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 17,81,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 18,90,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 19,152,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 20,99,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 21,62,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 22,18,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 23,125,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 24,114,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 25,30,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 26,142,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 27,112,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 28,47,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 29,145,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 30,100,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 31,176,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 32,84,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 33,18,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 34,71,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 35,177,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 36,141,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 37,155,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 38,171,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 39,24,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 40,60,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 41,73,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 42,72,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 43,179,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 44,165,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 45,157,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 46,87,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 47,8,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 48,186,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 49,71,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 50,189,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 51,56,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 52,81,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 53,42,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 54,175,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 55,120,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 56,95,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 57,142,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 58,57,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 59,146,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 60,181,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 61,110,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 62,157,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 63,126,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 64,125,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 65,153,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 66,127,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 67,106,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 68,165,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 69,109,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 70,48,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 71,136,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 72,152,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 73,140,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 74,176,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 75,13,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 76,109,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 77,111,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 78,12,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 79,75,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 80,186,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 81,112,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 82,151,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 83,119,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 84,128,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 85,179,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 86,159,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 87,100,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 88,188,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 89,7,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 90,7,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 91,28,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 92,128,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 93,186,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 94,145,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 95,149,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 96,122,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 97,185,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 98,78,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 99,31,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 100,11,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 101,187,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 102,188,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 103,198,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 104,200,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 105,66,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 106,169,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 107,39,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 108,192,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 109,104,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 110,7,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 111,50,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 112,136,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 113,137,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 114,3,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 115,132,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 116,83,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 117,97,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 118,98,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 119,1,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 120,55,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 121,96,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 122,59,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 123,48,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 124,15,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 125,170,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 126,150,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 127,199,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 128,70,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 129,111,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 130,170,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 131,117,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 132,125,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 133,41,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 134,116,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 135,172,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 136,161,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 137,129,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 138,125,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 139,137,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 140,134,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 141,5,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 142,112,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 143,180,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 144,143,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 145,15,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 146,196,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 147,61,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 148,185,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 149,171,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 150,139,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 151,157,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 152,63,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 153,187,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 154,156,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 155,106,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 156,172,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 157,155,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 158,6,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 159,66,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 160,89,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 161,4,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 162,47,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 163,10,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 164,105,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 165,46,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 166,29,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 167,185,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 168,45,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 169,152,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 170,127,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 171,136,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 172,122,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 173,14,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 174,19,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 175,84,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 176,168,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 177,64,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 178,200,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 179,145,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 180,143,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 181,66,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 182,191,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 183,149,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 184,140,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 185,77,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 186,59,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 187,165,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 188,159,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 189,26,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 190,158,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 191,137,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 192,95,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 193,89,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 194,154,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 195,139,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 196,70,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 197,127,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 198,174,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 199,95,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 200,180,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 201,5,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 202,68,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 203,200,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 204,8,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 205,95,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 206,138,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 207,51,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 208,136,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 209,170,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 210,12,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 211,47,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 212,122,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 213,123,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 214,100,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 215,190,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 216,76,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 217,140,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 218,27,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 219,128,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 220,27,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 221,51,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 222,11,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 223,12,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 224,111,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 225,1,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 226,178,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 227,147,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 228,12,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 229,47,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 230,125,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 231,104,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 232,42,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 233,190,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 234,64,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 235,92,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 236,73,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 237,98,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 238,47,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 239,178,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 240,196,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 241,100,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 242,69,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 243,13,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 244,83,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 245,62,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 246,140,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 247,89,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 248,54,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 249,184,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 250,83,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 251,31,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 252,140,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 253,28,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 254,157,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 255,146,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 256,29,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 257,4,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 258,97,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 259,12,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 260,167,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 261,200,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 262,166,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 263,181,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 264,70,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 265,87,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 266,126,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 267,152,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 268,92,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 269,17,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 270,33,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 271,109,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 272,51,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 273,114,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 274,95,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 275,175,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 276,174,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 277,158,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 278,173,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 279,174,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 280,6,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 281,147,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 282,90,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 283,138,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 284,39,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 285,101,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 286,71,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 287,100,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 288,13,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 289,153,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 290,35,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 291,25,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 292,5,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 293,94,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 294,142,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 295,148,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 296,129,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 297,15,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 298,145,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 299,39,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 300,166,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 301,57,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 302,172,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 303,45,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 304,4,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 305,91,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 306,88,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 307,155,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 308,138,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 309,167,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 310,114,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 311,172,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 312,38,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 313,111,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 314,160,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 315,43,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 316,170,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 317,171,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 318,24,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 319,194,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 320,108,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 321,162,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 322,141,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 323,72,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 324,181,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 325,63,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 326,119,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 327,81,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 328,166,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 329,131,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 330,195,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 331,171,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 332,119,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 333,188,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 334,3,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 335,130,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 336,124,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 337,83,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 338,109,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 339,86,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 340,65,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 341,93,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 342,38,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 343,147,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 344,107,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 345,103,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 346,88,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 347,195,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 348,27,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 349,42,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 350,183,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 351,16,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 352,164,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 353,200,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 354,91,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 355,136,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 356,99,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 357,129,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 358,87,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 359,121,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 360,45,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 361,118,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 362,178,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 363,94,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 364,15,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 365,15,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 366,104,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 367,189,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 368,50,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 369,178,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 370,19,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 371,186,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 372,145,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 373,171,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 374,107,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 375,51,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 376,103,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 377,63,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 378,191,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 379,29,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 380,14,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 381,65,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 382,41,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 383,161,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 384,16,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 385,23,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 386,123,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 387,80,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 388,75,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 389,52,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 390,64,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 391,169,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 392,50,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 393,83,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 394,48,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 395,8,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 396,140,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 397,35,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 398,56,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 399,112,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 400,109,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 401,30,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 402,19,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 403,97,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 404,38,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 405,74,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 406,195,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 407,39,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 408,130,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 409,56,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 410,91,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 411,27,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 412,42,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 413,20,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 414,131,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 415,118,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 416,10,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 417,166,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 418,138,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 419,150,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 420,152,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 421,119,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 422,78,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 423,14,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 424,9,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 425,29,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 426,135,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 427,107,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 428,158,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 429,97,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 430,198,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 431,43,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 432,137,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 433,192,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 434,88,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 435,140,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 436,84,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 437,32,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 438,14,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 439,79,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 440,85,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 441,49,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 442,155,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 443,4,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 444,141,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 445,106,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 446,111,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 447,113,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 448,10,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 449,140,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 450,7,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 451,49,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 452,82,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 453,48,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 454,126,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 455,99,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 456,13,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 457,17,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 458,65,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 459,169,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 460,15,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 461,107,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 462,172,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 463,145,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 464,1,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 465,7,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 466,101,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 467,80,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 468,49,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 469,187,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 470,194,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 471,101,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 472,155,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 473,14,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 474,102,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 475,167,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 476,136,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 477,97,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 478,44,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 479,188,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 480,122,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 481,200,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 482,106,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 483,69,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 484,161,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 485,157,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 486,196,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 487,126,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 488,111,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 489,195,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 490,102,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 491,69,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 492,70,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 493,10,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 494,112,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 495,176,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 496,78,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 497,180,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 498,190,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 499,45,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 500,145,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 501,193,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 502,153,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 503,65,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 504,86,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 505,198,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 506,121,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 507,184,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 508,143,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 509,104,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 510,5,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 511,96,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 512,10,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 513,170,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 514,180,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 515,164,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 516,21,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 517,153,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 518,199,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 519,75,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 520,144,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 521,180,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 522,180,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 523,110,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 524,2,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 525,145,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 526,152,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 527,178,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 528,2,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 529,160,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 530,138,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 531,177,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 532,127,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 533,180,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 534,186,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 535,114,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 536,180,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 537,25,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 538,55,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 539,179,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 540,55,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 541,157,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 542,194,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 543,190,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 544,64,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 545,197,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 546,85,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 547,17,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 548,94,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 549,75,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 550,43,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 551,52,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 552,85,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 553,77,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 554,109,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 555,190,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 556,20,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 557,172,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 558,38,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 559,36,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 560,67,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 561,37,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 562,57,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 563,48,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 564,2,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 565,36,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 566,129,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 567,42,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 568,94,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 569,66,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 570,163,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 571,96,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 572,77,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 573,11,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 574,184,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 575,183,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 576,46,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 577,178,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 578,33,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 579,26,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 580,161,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 581,160,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 582,137,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 583,152,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 584,37,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 585,51,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 586,62,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 587,109,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 588,196,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 589,178,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 590,32,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 591,138,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 592,28,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 593,109,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 594,145,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 595,173,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 596,20,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 597,62,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 598,2,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 599,72,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 600,93,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 601,199,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 602,124,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 603,162,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 604,59,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 605,104,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 606,68,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 607,128,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 608,127,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 609,69,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 610,102,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 611,187,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 612,31,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 613,15,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 614,127,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 615,130,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 616,51,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 617,65,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 618,44,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 619,1,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 620,28,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 621,150,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 622,47,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 623,108,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 624,169,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 625,178,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 626,181,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 627,94,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 628,9,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 629,60,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 630,57,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 631,154,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 632,146,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 633,180,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 634,24,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 635,154,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 636,141,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 637,157,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 638,48,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 639,78,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 640,41,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 641,54,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 642,86,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 643,181,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 644,187,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 645,56,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 646,81,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 647,136,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 648,103,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 649,196,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 650,191,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 651,178,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 652,126,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 653,63,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 654,6,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 655,118,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 656,69,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 657,156,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 658,6,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 659,27,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 660,67,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 661,22,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 662,122,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 663,36,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 664,136,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 665,117,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 666,192,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 667,91,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 668,32,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 669,24,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 670,111,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 671,180,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 672,1,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 673,7,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 674,120,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 675,8,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 676,32,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 677,190,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 678,76,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 679,68,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 680,67,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 681,152,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 682,31,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 683,179,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 684,153,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 685,77,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 686,145,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 687,114,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 688,124,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 689,180,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 690,159,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 691,127,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 692,48,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 693,170,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 694,12,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 695,1,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 696,189,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 697,190,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 698,64,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 699,183,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 700,79,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 701,192,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 702,195,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 703,83,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 704,179,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 705,99,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 706,178,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 707,72,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 708,48,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 709,9,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 710,67,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 711,74,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 712,89,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 713,138,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 714,31,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 715,149,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 716,155,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 717,34,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 718,175,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 719,79,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 720,133,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 721,188,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 722,23,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 723,54,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 724,199,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 725,94,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 726,81,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 727,8,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 728,141,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 729,122,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 730,107,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 731,78,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 732,2,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 733,44,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 734,130,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 735,32,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 736,179,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 737,81,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 738,138,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 739,10,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 740,127,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 741,192,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 742,130,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 743,190,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 744,45,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 745,10,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 746,157,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 747,3,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 748,99,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 749,104,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 750,169,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 751,29,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 752,41,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 753,199,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 754,20,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 755,27,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 756,28,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 757,101,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 758,74,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 759,37,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 760,182,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 761,4,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 762,48,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 763,181,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 764,119,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 765,92,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 766,147,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 767,42,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 768,42,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 769,163,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 770,69,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 771,42,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 772,60,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 773,53,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 774,40,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 775,114,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 776,5,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 777,76,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 778,74,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 779,87,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 780,106,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 781,22,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 782,16,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 783,159,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 784,11,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 785,47,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 786,161,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 787,55,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 788,99,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 789,116,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 790,34,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 791,122,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 792,154,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 793,25,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 794,84,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 795,169,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 796,84,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 797,174,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 798,2,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 799,152,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 800,156,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 801,86,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 802,45,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 803,27,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 804,158,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 805,177,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 806,128,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 807,149,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 808,90,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 809,163,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 810,16,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 811,83,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 812,21,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 813,16,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 814,49,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 815,123,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 816,130,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 817,41,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 818,33,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 819,126,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 820,123,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 821,97,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 822,45,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 823,113,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 824,186,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 825,134,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 826,134,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 827,101,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 828,175,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 829,3,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 830,110,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 831,157,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 832,46,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 833,61,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 834,115,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 835,191,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 836,102,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 837,55,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 838,136,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 839,146,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 840,3,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 841,65,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 842,43,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 843,126,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 844,8,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 845,124,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 846,142,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 847,44,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 848,11,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 849,49,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 850,120,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 851,136,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 852,67,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 853,92,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 854,26,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 855,185,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 856,131,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 857,159,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 858,30,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 859,83,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 860,91,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 861,188,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 862,90,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 863,64,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 864,60,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 865,83,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 866,97,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 867,2,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 868,27,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 869,117,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 870,34,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 871,67,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 872,9,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 873,74,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 874,7,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 875,30,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 876,54,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 877,78,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 878,165,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 879,91,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 880,138,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 881,106,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 882,52,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 883,78,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 884,110,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 885,171,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 886,56,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 887,89,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 888,186,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 889,135,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 890,107,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 891,105,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 892,185,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 893,41,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 894,100,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 895,104,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 896,130,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 897,64,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 898,35,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 899,104,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 900,50,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 901,40,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 902,52,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 903,49,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 904,59,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 905,34,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 906,103,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 907,31,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 908,1,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 909,80,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 910,199,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 911,174,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 912,54,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 913,39,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 914,16,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 915,176,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 916,69,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 917,85,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 918,7,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 919,128,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 920,49,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 921,154,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 922,49,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 923,70,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 924,97,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 925,141,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 926,122,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 927,46,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 928,165,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 929,179,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 930,198,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 931,83,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 932,121,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 933,194,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 934,18,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 935,21,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 936,152,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 937,109,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 938,56,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 939,132,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 940,140,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 941,110,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 942,72,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 943,38,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 944,59,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 945,174,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 946,163,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 947,129,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 948,176,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 949,101,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 950,153,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 951,185,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 952,44,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 953,153,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 954,161,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 955,136,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 956,104,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 957,198,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 958,188,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 959,8,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 960,17,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 961,174,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 962,130,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 963,35,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 964,147,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 965,46,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 966,84,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 967,38,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 968,162,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 969,136,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 970,28,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 971,81,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 972,194,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 973,60,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 974,81,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 975,131,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 976,100,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 977,135,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 978,169,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 979,151,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 980,2,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 981,79,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 982,99,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 983,47,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 984,178,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 985,164,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 986,19,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 987,157,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 988,84,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 989,121,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 990,81,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 991,80,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 992,117,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 993,36,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 994,131,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 995,180,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)
+ 996,144,Warmup,25,1300,1 x 400 @ 6:00 Free Swim with Fins 8 x 25 @ :40 Kick Descend Pairs): Stroke 1 x 200 @ 3:00 Swim 50 Free + 50 Stroke) with Fins 8 x 25 @ :40 Stroke Drill 1 x 100 @ 1:30 Swim 25 Free + 25 Stroke) with Fins 8 x 25 @ :40 Variable Sprints
+ 997,110,Pre Set,5,200,8 x 25 @ 1:00 4 with chute Descend effort 1-4 to Fast) 4 without chute + with Fins FAST
+ 998,6,Kick Set,15,500,1 x 300 @ 4:00 Fins Kick Descend 100’s to HR 28+) 6 x 25 Kick 1 @ :40/2 @ :30/3 @ :20): Odds: Leg Buster/Evens: Descend to Fast 1 x 50 @ 1:20 Smooth Swim
+ 999,189,Main Set,20,2100,3 x Through  6 x 25 @ :40 Odds: Stroke Drill/Evens: Free Build) 3 x 150 @ 2:00 Free)/2:10 Fly & Back)/2:20 Breast): 100 Free + 50 Stroke Descend 1-3) Extra :10 Rest 1 x 50 @ 1:00 Fins Fast Stroke 1 x 50 @ 2:00 Fins Smooth Swim
+ 1000,33,Warm Down,5,400,1 x 400 (100 Swim + 50 Kick + 50 Drill)

@@ -1,0 +1,10 @@
+﻿ 1,Thoughtstorm,3408 Glendale Court,Rochester,NY,25 Meter
+ 2,Babbleblab,8 Welch Circle,Kansas City,MO,25 Yards
+ 3,Meembee,79929 Maple Avenue,Kansas City,MO,50 Meters
+ 4,Midel,65942 Thierer Park,Miami,FL,Other
+ 5,Ooba,11826 Texas Terrace,Champaign,IL,25 Meter
+ 6,Oyoloo,527 Dakota Road,Houston,TX,25 Yards
+ 7,Thoughtbridge,28 Barnett Road,Oklahoma City,OK,50 Meters
+ 8,Yabox,661 Moose Circle,Irving,TX,Other
+ 9,Wordify,81 Lindbergh Center,Portland,OR,25 Meter
+ 10,Quinu,8615 Eagan Crossing,Anderson,IN,25 Yards
