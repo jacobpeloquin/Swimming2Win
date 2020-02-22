@@ -1,2 +1,3 @@
 # Swimming2Win
-ur mom
+
+Senior Design Project
